@@ -1,0 +1,10 @@
+.box {
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+  background-color: chocolate;
+}
+
+.list {
+  background-color: cyan;
+}
